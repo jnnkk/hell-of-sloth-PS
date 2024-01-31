@@ -1,3 +1,8 @@
 {
-    "C_Cpp.default.compilerPath": "/bin/g++"
+    "C_Cpp.default.compilerPath": "/bin/g++",
+    "files.associations": {
+        "*.ejs": "html",
+        "*.tcc": "cpp",
+        "iostream": "cpp"
+    }
 }
